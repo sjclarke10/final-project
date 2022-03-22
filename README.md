@@ -58,11 +58,11 @@ Recipe
 
 /recipes?name=recipeName - user queries for specifc recipe using form
 
-![Recipes query](documentation/recipes-query.png)
+![Recipes query](documentation/recipes_query.png)
 
 /recipes/recipeName - page to display all info related to recipe 
 
-![Recipe specific page](documentation/recipes/recipeName.png)
+![Recipe specific page](documentation/recipes_recipeName.png)
 
 /pantry - page for user to see all ingredients they have and can add to this list 
 
@@ -70,11 +70,11 @@ Recipe
 
 /pantry?name=ingredientName - page that loads when a user queries for a specific ingredient 
 
-![Pantry query](documentation/pantry=query.png)
+![Pantry query](documentation/pantry_query.png)
 
 checkPantry/name - page that loads when a user clicks the "check pantry" button on a recipe page. 
 
-![Check pantry](documentation/checkPantry/name.png)
+![Check pantry](documentation/checkPantry_name.png)
 
 
 
